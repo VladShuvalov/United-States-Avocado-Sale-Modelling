@@ -7,8 +7,8 @@ In this analysis we will explore the 2015-2018 domestic sales of United States a
  *  Regional changes over time
  *  Creating a classifier to predict whether an avocado was grown organically or conventionally
  
-### Summary of Results
-  
-After analyzing the data, we have concluded that there was a major surge in avocado prices in several metropolitan regions between 2016 and 2017. The increase in price was primarily the cities with higher demand for organically grown avocado. The high demand and low crop yield caused a surge in avocado price.
- 
-For more details, please refer to the the full analysis above.
+# Conclusion
+
+Avocado have seen a large increase in price 2016-2017 primarily organic avocado. California, the state in which [90% of domestic avocado are grown](https://fsi.colostate.edu/avocados/) saw a drought accompanied with the [protests of Mexican farmers](https://www.cbc.ca/news/canada/british-columbia/mexican-protests-could-signal-fluctuating-avocado-prices-this-season-1.4908341) brought a scarcity in supply.
+
+Organic avocado account for less than 5% of the avocado sold in the United States. The affect the drought and protests on an already low supply caused surges in price. The low volume of organic avocado caused a high classification rate in our model due to volume being highly correlated with the response.
